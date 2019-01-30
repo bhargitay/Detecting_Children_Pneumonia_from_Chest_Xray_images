@@ -24,6 +24,17 @@ The dataset used for the whole modelling process can be found [here.](https://ww
 /best_weights_inception_100.h5|Weights of the best model | - 
 /Detecting_Children_Pneumonia_From_ChestXray.pdf|Report on 'Detecting Children Pneumonia from X-ray Images'| - 
 
+## Requiered Packages:
+- numpy
+- pandas
+- keras
+- cv2
+- matplotlib
+- seaborn
+- glob
+- os
+- tqdm
+- imagsize 
 
 ## Results
 
