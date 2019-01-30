@@ -1,0 +1,2 @@
+# Detecting_Children_Pneumonia_from_Chest_Xray_images
+My Machine Learning Engineer Nanodegree Capstone project
