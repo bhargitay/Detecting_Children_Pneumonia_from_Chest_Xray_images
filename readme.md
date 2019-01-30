@@ -35,7 +35,7 @@ The dataset used for the whole modelling process can be found [here.](https://ww
 - glob
 - os
 - tqdm
-- imagsize 
+- imagesize 
 
 ## Results
 
