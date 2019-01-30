@@ -16,6 +16,7 @@ The dataset used for the whole modelling process can be found [here.](https://ww
 
 **Path**|**Description**|**Comment**
 :-----|:-----|:-----
+/00_capstone_proposal.pdf|Capstone Proposal Report| -
 /01_data_analysis.ipynb|Descriptive analysis of the datasets.| developed on local machine
 /02_image_coloring.ipynb|Applying colormaps on black & white images.| developed on local machine
 /03_image_augmentation.ipynb|Image Augmentation |developed on local machine
